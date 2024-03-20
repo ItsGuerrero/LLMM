@@ -1,0 +1,19 @@
+.numero {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 23px;
+    color: red;
+}
+
+table {
+    background-color: navajowhite;
+    border-style: dotted;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    padding: 5px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    color: aquamarine;
+
+}
